@@ -1,3 +1,5 @@
+<meta http-equiv="Content-Type" content="text/plain; charset=UTF-8">
+<script>
 const outcomes = {
     badLuck: [
         "Sumeru resetou e vai ter que completar de novo!",
@@ -43,12 +45,10 @@ const outcomes = {
 
 const roll = Math.floor(Math.random() * 20) + 1;
 let outcomeList;
-
 if (roll <= 5) outcomeList = outcomes.badLuck;
 else if (roll <= 10) outcomeList = outcomes.mediocre;
 else if (roll <= 15) outcomeList = outcomes.goodLuck;
 else outcomeList = outcomes.greatLuck;
-
 const outcome = outcomeList[Math.floor(Math.random() * outcomeList.length)];
-
-`Rolou um ${roll}: ${outcome}`;
+document.write(`Rolou um ${roll}: ${outcome}`);
+</script>
