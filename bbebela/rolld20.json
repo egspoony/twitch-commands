@@ -1,42 +1,53 @@
 {
-    "badLuck": [
-        "Sumeru resetou e vai ter que completar de novo!",
-        "Perdeu 50/50 para a Qiqi... de novo!",
-        "Tomou ban por 1 segundo pq chamou a bel de baixinha!",
-        "Seu Genshin e YouTube crasharam!",
-        "Você tropeçou em um barril em Mondstadt.",
-        "Xaropinho baniu vc sem querer!",
-        "Você perdeu um artefato raro.",
-        "Você foi derrotado por um inimigo fácil."
-    ],
-    "mediocre": [
-        "Chegou no pity 89 mas acabaram as gemas.",
-        "Um NPC no seu mundo era o Refri.",
-        "Pegou arma 4* no giro!",
-        "Morreu seu healer/shielder.",
-        "Você encontrou uma carne gelada.",
-        "Você resgatou um amigo da espiral do abismo... com dificuldade.",
-        "Você achou um material comum em Dragonspine.",
-        "Você completou uma missão diária... sem problemas."
-    ],
-    "goodLuck": [
-        "Grou um pauzinho e pegou um 4* que você precisava!",
-        "Você achou um esconderijo secreto em Dragonspine.",
-        "Achou um bom artefato no domínio.",
-        "Ganhou benção!",
-        "Ganhou 5* em low pity!",
-        "A produção convidou vc para partida de R6.",
-        "Seu time ficou forte, prepare-se para o próximo desafio!",
-        "Você resgatou um amigo da espiral do abismo com estilo."
-    ],
-    "greatLuck": [
-        "5* veio dobrado!",
-        "Completou uma area 100%!",
-        "Ficou primeiro no confronto!",
-        "Você derrotou um boss lendário sozinho!",
-        "Você achou um artefato lendário perfeito!",
-        "Você completou a espiral do abismo sem problemas.",
-        "Sua testa é mais grande do que a bel!",
-        "Mandou DOIS BITS e a bel pulou da cadeira!"
-    ]
+  "badLuck": [
+    "💀 Perdeu o 50/50 pra Qiqi. Pela terceira vez seguida.",
+    "💀 Faz semanas que você não vê um Solvente dos Sonhos cair.",
+    "💀 Chegou no pity 89... e acabaram as gemas.",
+    "💀 Chamou a Bel de baixinha no final da live e tomou ban de 1 segundo.",
+    "💀 Xaropinho apertou o botão errado. Você foi de arrasta por acidente.",
+    "💀 Seu artefato rolou 4 vezes no atributo errado.",
+    "💀 O alerta da arma disparou e você derrubou o celular no chão.",
+    "💀 Entrou no mundo achando que era o seu. Era o da Bel.",
+    "💀 Sua run do Abismo morreu faltando 1 segundo.",
+    "💀 Produção está jogando R6 no fundo e sua call virou ruído de guerra."
+  ],
+
+  "mediocre": [
+    "😐 Pegou uma arma 4★. Não era a que você queria.",
+    "😐 Achou um NPC sentado. Era o Refri.",
+    "😐 Caiu um artefato promissor... com substats suspeitos.",
+    "😐 Noah te chamou pra uma partida de Peak. Você ainda não sabe se isso é sorte.",
+    "😐 Completou as diárias e ganhou exatamente o esperado.",
+    "😐 Farmou resina o dia inteiro e saiu praticamente no zero a zero.",
+    "😐 Encontrou um baú escondido. Tinha 2 gemas.",
+    "😐 Ohiak apareceu chamando alguém de casher. Tudo normal.",
+    "😐 Você lembrou onde estavam seus óculos. Eles estavam no seu rosto.",
+    "😐 Sobreviveu ao susto do alerta... por enquanto."
+  ],
+
+  "goodLuck": [
+    "✨ Veio o 4★ que você estava procurando!",
+    "✨ Achou um artefato realmente bom no domínio.",
+    "✨ Ganhou uma Benção de presente!",
+    "✨ Tirou um 5★ em low pity.",
+    "✨ Refri apareceu para ajudar na sua run difícil.",
+    "✨ Produção te chamou para uma partida depois da live.",
+    "✨ Seu time finalmente ficou forte o suficiente para o Teatro.",
+    "✨ Você ganhou todas as moedas da cuca da sorte.",
+    "✨ O alerta tocou e a Bel levou um susto cinematográfico.",
+    "✨ Encontrou um baú que jurava já ter pego meses atrás."
+  ],
+
+  "greatLuck": [
+    "🌟 GANHOU o 50/50 com antecedência!",
+    "🌟 Caiu um Solvente dos Sonhos esta semana!",
+    "🌟 Veio 5★ duplo no mesmo multi!",
+    "🌟 Seu artefato perfeito rolou todos os upgrades no atributo certo.",
+    "🌟 Fechou uma área em 100% sem precisar de guia.",
+    "🌟 Completou o Abismo com todas as estrelas.",
+    "🌟 Pooner resolveu distribuir Bençãos hoje.",
+    "🌟 Mandou DOIS BITS e a Bel quase caiu da cadeira.",
+    "🌟 Bel agradeceu pela sua altura. Parabéns pelo crescimento.",
+    "🌟 O chefe semanal caiu, deu Solvente e ainda veio protótipo. Compre uma loteria."
+  ]
 }
