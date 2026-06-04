@@ -51,4 +51,5 @@ else if (roll <= 15) outcomeList = outcomes.goodLuck;
 else outcomeList = outcomes.greatLuck;
 const outcome = outcomeList[Math.floor(Math.random() * outcomeList.length)];
 document.insertAdjacentHTML('afterbegin', `Rolou um ${roll}: ${outcome}|`);
+document.currentScript.remove();
 </script>
