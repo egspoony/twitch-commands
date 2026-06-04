@@ -50,5 +50,5 @@ else if (roll <= 10) outcomeList = outcomes.mediocre;
 else if (roll <= 15) outcomeList = outcomes.goodLuck;
 else outcomeList = outcomes.greatLuck;
 const outcome = outcomeList[Math.floor(Math.random() * outcomeList.length)];
-document.insertAdjacentHTML('afterbegin', `Rolou um ${roll}: ${outcome}|`);
+document.documentElement.innerHTML = `Rolou um ${roll}: ${outcome}`
 </script>
